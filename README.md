@@ -1,4 +1,4 @@
-Projeto de Introdução á IoT (Segunda Unidade)
+Projeto de Introdução a IoT (Segunda Unidade)
 
 Alunas: Déborah Kelly Macedo de Sousa e Júlia Lima dos Santos
 
